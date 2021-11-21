@@ -17,11 +17,13 @@ The First option is to generate the password based on the requirements provided 
 The second option is generating a random password based on the password length that we are providing. Here there is no other input required from the client-side. 
 
 ## Features
+
 - Multiple options for the generation of password
 - Easy to understand
 - Easy to code
 
-## Module
+## Modules Used
+
 ### String 
 - `string.ascii_letters` Concatenation of the ascii 
 - `string.digits` The string ‘0123456789’.
@@ -33,6 +35,7 @@ The second option is generating a random password based on the password length t
 
 
 ## Pre-Requests
+
 - Basic Knowledge of python
 - Need to install python3.
 
@@ -112,6 +115,7 @@ $ python3 password.py
 
 
 ## Script running Demonstration
+
 ### Secnario -1
 ```sh
 $ python3 password.py
