@@ -10,7 +10,7 @@ Here I am generating passwords which are more important parts of the security. M
 
 ### Secnario - 1
 
-The First option is to generate the password based on the requirements provided by the client. In which the requirements include how many alphabets, digits, special characters, and overall total length of the password are required.
+The First option is to generate the password based on the requirements provided by the client. In which the requirements include how many alphabets, digits, special characters, and overall total length of the password are required
 
 ### Secnario - 2
 
